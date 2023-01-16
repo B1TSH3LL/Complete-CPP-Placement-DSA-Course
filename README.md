@@ -1,1 +1,1 @@
-I'm beginning my DSA course today. Under the direction of the YouTube channel Love Babbar. The primary reason I created this repository was to keep track of my progress and to assist me in maintaining motivation.
+I'm beginning my DSA course today. Under the direction of the YouTube channel [Love Babbar]{Love Babbar}. The primary reason I created this repository was to keep track of my progress and to assist me in maintaining motivation.
