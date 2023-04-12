@@ -1,6 +1,7 @@
-// A A A
-// B B B
+// A
+// B B
 // C C C
+// D D D D
 
 #include <iostream>
 
@@ -17,15 +18,14 @@ int main()
     while (i <= n)
     {
         int j = 1;
-        char ch = 'A' + i - 1;
-        while (j <= n)
+        while (j <= i)
         {
+            char ch = 'A' + i - 1;
             cout << ch << " ";
             j += 1;
         }
         cout << endl;
         i += 1;
     }
-
     return 0;
 }
