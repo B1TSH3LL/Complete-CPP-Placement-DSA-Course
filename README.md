@@ -9,6 +9,7 @@ I will be tracking my progress through the course by using this repository. Each
 
 ## Completed Modules
 Module 1: Introduction to C++
+
 Module 2: Control Statements and Loops
 
 ## In Progress Modules
