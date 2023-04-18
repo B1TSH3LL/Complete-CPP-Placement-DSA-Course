@@ -26,7 +26,7 @@ int main()
     }
     else
     {
-        // calculate two's complement
+        // calculate two's complement of ans.
         n = abs(n);
         while (n != 0)
         {
