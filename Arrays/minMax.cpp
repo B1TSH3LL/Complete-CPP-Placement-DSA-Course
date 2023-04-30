@@ -13,6 +13,10 @@ int getMax(int arr[], int size)
         {
             max = arr[i];
         }
+
+        // or
+
+        // max = max(max, arr[i])   ---> It does the same thing as above.
     }
 
     return max;
@@ -27,6 +31,10 @@ int getMin(int arr[], int size)
         {
             min = arr[i];
         }
+
+        // or
+
+        // min = min(min, arr[i])   ---> It does the same thing as above.
     }
 
     return min;
